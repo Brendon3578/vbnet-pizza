@@ -528,17 +528,17 @@ Partial Class frm_sistema
         'tb_endereco2
         '
         Me.tb_endereco2.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tb_endereco2.Location = New System.Drawing.Point(5, 76)
+        Me.tb_endereco2.Location = New System.Drawing.Point(14, 76)
         Me.tb_endereco2.MaxLength = 64
         Me.tb_endereco2.Name = "tb_endereco2"
-        Me.tb_endereco2.Size = New System.Drawing.Size(128, 20)
+        Me.tb_endereco2.Size = New System.Drawing.Size(136, 20)
         Me.tb_endereco2.TabIndex = 8
         '
         'Label6
         '
         Me.Label6.AutoSize = True
         Me.Label6.Cursor = System.Windows.Forms.Cursors.Default
-        Me.Label6.Location = New System.Drawing.Point(139, 80)
+        Me.Label6.Location = New System.Drawing.Point(153, 79)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(71, 13)
         Me.Label6.TabIndex = 7
@@ -547,16 +547,16 @@ Partial Class frm_sistema
         'tb_endereco3
         '
         Me.tb_endereco3.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tb_endereco3.Location = New System.Drawing.Point(216, 77)
+        Me.tb_endereco3.Location = New System.Drawing.Point(235, 78)
         Me.tb_endereco3.MaxLength = 32
         Me.tb_endereco3.Name = "tb_endereco3"
-        Me.tb_endereco3.Size = New System.Drawing.Size(70, 20)
+        Me.tb_endereco3.Size = New System.Drawing.Size(122, 20)
         Me.tb_endereco3.TabIndex = 6
         '
         'tb_endereco1
         '
         Me.tb_endereco1.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tb_endereco1.Location = New System.Drawing.Point(198, 47)
+        Me.tb_endereco1.Location = New System.Drawing.Point(212, 49)
         Me.tb_endereco1.MaxLength = 128
         Me.tb_endereco1.Name = "tb_endereco1"
         Me.tb_endereco1.Size = New System.Drawing.Size(145, 20)
@@ -566,7 +566,7 @@ Partial Class frm_sistema
         '
         Me.Label5.AutoSize = True
         Me.Label5.Cursor = System.Windows.Forms.Cursors.Default
-        Me.Label5.Location = New System.Drawing.Point(139, 50)
+        Me.Label5.Location = New System.Drawing.Point(153, 52)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(53, 13)
         Me.Label5.TabIndex = 4
@@ -575,17 +575,17 @@ Partial Class frm_sistema
         'tb_fone
         '
         Me.tb_fone.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tb_fone.Location = New System.Drawing.Point(57, 47)
+        Me.tb_fone.Location = New System.Drawing.Point(62, 48)
         Me.tb_fone.MaxLength = 12
         Me.tb_fone.Name = "tb_fone"
-        Me.tb_fone.Size = New System.Drawing.Size(76, 20)
+        Me.tb_fone.Size = New System.Drawing.Size(85, 20)
         Me.tb_fone.TabIndex = 3
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Cursor = System.Windows.Forms.Cursors.Default
-        Me.Label3.Location = New System.Drawing.Point(2, 50)
+        Me.Label3.Location = New System.Drawing.Point(11, 51)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(49, 13)
         Me.Label3.TabIndex = 2
@@ -594,17 +594,17 @@ Partial Class frm_sistema
         'tb_nome
         '
         Me.tb_nome.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.tb_nome.Location = New System.Drawing.Point(57, 22)
+        Me.tb_nome.Location = New System.Drawing.Point(62, 22)
         Me.tb_nome.MaxLength = 128
         Me.tb_nome.Name = "tb_nome"
-        Me.tb_nome.Size = New System.Drawing.Size(286, 20)
+        Me.tb_nome.Size = New System.Drawing.Size(295, 20)
         Me.tb_nome.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Cursor = System.Windows.Forms.Cursors.Default
-        Me.Label2.Location = New System.Drawing.Point(2, 25)
+        Me.Label2.Location = New System.Drawing.Point(11, 25)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(35, 13)
         Me.Label2.TabIndex = 0
@@ -647,11 +647,11 @@ Partial Class frm_sistema
         Me.Label4.Cursor = System.Windows.Forms.Cursors.Default
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(174, Byte), Integer), CType(CType(92, Byte), Integer), CType(CType(80, Byte), Integer))
-        Me.Label4.Location = New System.Drawing.Point(469, 9)
+        Me.Label4.Location = New System.Drawing.Point(515, 18)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(331, 39)
+        Me.Label4.Size = New System.Drawing.Size(266, 39)
         Me.Label4.TabIndex = 20
-        Me.Label4.Text = "🍕 Hora da Pizza 🍕"
+        Me.Label4.Text = "🍕 Pizza App 🍕"
         Me.Label4.UseMnemonic = False
         '
         'btn_cancelar

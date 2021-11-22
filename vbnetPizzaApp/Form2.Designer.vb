@@ -311,11 +311,11 @@ Partial Class frm_gerenciadorbd
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(174, Byte), Integer), CType(CType(92, Byte), Integer), CType(CType(80, Byte), Integer))
-        Me.Label8.Location = New System.Drawing.Point(573, 12)
+        Me.Label8.Location = New System.Drawing.Point(396, 12)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(321, 39)
+        Me.Label8.Size = New System.Drawing.Size(266, 39)
         Me.Label8.TabIndex = 21
-        Me.Label8.Text = "🍕Hora da Pizza 🍕"
+        Me.Label8.Text = "🍕 Pizza App 🍕"
         Me.Label8.UseMnemonic = False
         '
         'btn_apagarultimo
